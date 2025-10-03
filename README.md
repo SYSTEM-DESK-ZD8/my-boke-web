@@ -36,7 +36,7 @@
 
 ●MarkText中文官网：https://marktext.weero.net/
 
-●Git官网：https://git-scm.com/
+
 
 ●GitHub官网：https://github.com/
 
