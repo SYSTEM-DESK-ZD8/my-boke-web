@@ -28,28 +28,4 @@
 
 ●脚本：https://www.123912.com/s/Q3upTd-iWdCd
 
-## 第六话 自制自己的博客
-
-●Node.js https://nodejs.org/zh-cn
-
-●docsify官网：https://docsify.js.org/#/
-
-●MarkText中文官网：https://marktext.weero.net/
-
-
-
-●GitHub官网：https://github.com/
-
-●Watt Toolkit官网：https://steampp.net/
-
-●doscify搭建：https://www.123912.com/s/Q3upTd-erdCd
-
-> [!IMPORTANT]
-> 
-> 🔹 **免责声明**：
-> 
-> ●本工具为**个人开发**，与以下官方项目无任何关联：
-> 
-> [docsify](https://docsify.js.org/)（Markdown 驱动文档生成）
-> 
-> ●功能：简化 **docsify**  的本地部署及 GitHub Pages 发布流程。
+# 
