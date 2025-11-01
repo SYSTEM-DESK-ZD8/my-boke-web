@@ -10,7 +10,7 @@
 > > 
 > > SYSTEM-DESK-ZD8的主页：https://www.xiaohongshu.com/user/profile/61b58ae00000000010007a3a?xsec_token=AB1K5QuO95AZMI39VU4wGahEm5mApt3Li963_WIcF0VdU%3D&xsec_source=pc_search
 
-## 第一话  简单放一首歌（工具为千千静听）
+##第一话  简单放一首歌（工具为千千静听）
 
 ●千千静听：https://www.123912.com/s/Q3upTd-3FdCd
 
@@ -33,3 +33,15 @@
 ## 第七话 谷歌在中国留下的最后一个搜索服务265导航
 
 ●网址：www.265.com
+
+## 第八话 桌面美化
+
+TranslucentTB下载链接：https://apps.microsoft.com/detail/9pf4kz2vn4w9?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch
+
+Rainmeter下载链接：https://www.rainmeter.net/
+
+Nexus安装包：https://www.123865.com/s/Q3upTd-cT3Cd
+
+好看的音乐条：https://www.123865.com/s/Q3upTd-eT3Cd
+
+动态壁纸与wallpaper：https://www.123865.com/s/Q3upTd-tT3Cd
